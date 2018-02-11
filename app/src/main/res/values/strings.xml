@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MetroInfo</string>
+    <string name="train_time">Train Time</string>
+</resources>
